@@ -4,7 +4,7 @@
 
 **SAPIENS TECHNOLOGY LTDA** is a Brazilian company focused on developing advanced Artificial Intelligence technologies. Our purpose is to transform challenges and imagination into accessible solutions, bringing the power of AI to everyone. 🚀
 
-We are pioneers in Latin America in developing a **proprietary foundational multimodal model**, capable of handling different types of data and applications within a single integrated system. 🧠✨
+We are pioneers in Latin America in developing a "proprietary foundational multimodal model", capable of handling different types of data and applications within a single integrated system. 🧠✨
 
 ---
 
