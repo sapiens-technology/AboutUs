@@ -8,6 +8,38 @@ We are pioneers in Latin America in developing a "proprietary foundational multi
 
 ---
 
+## Our Technologies
+
+| Technology                      | English                                                                          | Spanish                                                                          | Portuguese                                                                       |
+|---------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Single Layer HurNet 1.0         | [Link to the EN Manual](single_layer_hurnet_en.pdf)                              | [Link to the ES Manual](single_layer_hurnet_es.pdf)                              | [Link to the PT Manual](single_layer_hurnet_pt.pdf)                              |
+| Single Layer HurNet 2.0         | [Link to the EN Manual](singlelayer_hurnet_en.pdf)                               | [Link to the ES Manual](singlelayer_hurnet_es.pdf)                               | [Link to the PT Manual](singlelayer_hurnet_pt.pdf)                               |
+| Multilayer HurNet               | [Link to the EN Manual](multilayer_hurnet_en.pdf)                                | [Link to the ES Manual](multilayer_hurnet_es.pdf)                                | [Link to the PT Manual](multilayer_hurnet_pt.pdf)                                |
+| HurNet                          | [Link to the EN Manual](hurnet_en.pdf)                                           | [Link to the ES Manual](hurnet_es.pdf)                                           | [Link to the PT Manual](hurnet_pt.pdf)                                           |
+| HurNet Torch 1.0                | [Link to the EN Manual](hurnet_torch_1dot0_en.pdf)                               | [Link to the ES Manual](hurnet_torch_1dot0_es.pdf)                               | [Link to the PT Manual](hurnet_torch_1dot0_pt.pdf)                               |
+| HurNet Torch 2.0                | [Link to the EN Manual](hurnet_torch_2dot0_en.pdf)                               | [Link to the ES Manual](hurnet_torch_2dot0_es.pdf)                               | [Link to the PT Manual](hurnet_torch_2dot0_pt.pdf)                               |
+| HurNet-FX                       | [Link to the EN Manual](hurnet_fx_en.pdf)                                        | [Link to the ES Manual](hurnet_fx_es.pdf)                                        | [Link to the PT Manual](hurnet_fx_pt.pdf)                                        |
+| HurNet Quantum                  | [Link to the EN Manual](hurnet_quantum_en.pdf)                                   | [Link to the ES Manual](hurnet_quantum_es.pdf)                                   | [Link to the PT Manual](hurnet_quantum_pt.pdf)                                   |
+| Hur Model                       | [Link to the EN Manual](hur_model_en.pdf)                                        | [Link to the ES Manual](hur_model_es.pdf)                                        | [Link to the PT Manual](hur_model_pt.pdf)                                        |
+| Hur                             | [Link to the EN Manual](hur_en.pdf)                                              | [Link to the ES Manual](hur_es.pdf)                                              | [Link to the PT Manual](hur_pt.pdf)                                              |
+| SCNet                           | [Link to the EN Manual](scnet_en.pdf)                                            | [Link to the ES Manual](scnet_es.pdf)                                            | [Link to the PT Manual](scnet_pt.pdf)                                            |
+| SCN                             | [Link to the EN Manual](scn_en.pdf)                                              | [Link to the ES Manual](scn_es.pdf)                                              | [Link to the PT Manual](scn_pt.pdf)                                              |
+| SCN and HurNet Torch            | [Link to the EN Manual](scn_and_hurnet_torch_en.pdf)                             | [Link to the ES Manual](scn_and_hurnet_torch_es.pdf)                             | [Link to the PT Manual](scn_and_hurnet_torch_pt.pdf)                             |
+| Infinite Context Window         | [Link to the EN Manual](infinite_context_window_en.pdf)                          | [Link to the ES Manual](infinite_context_window_es.pdf)                          | [Link to the PT Manual](infinite_context_window_pt.pdf)                          |
+| Sapiens Infinite Context Window | [Link to the EN Manual](sapiens_infinite_context_window_en.pdf)                  | [Link to the ES Manual](sapiens_infinite_context_window_es.pdf)                  | [Link to the PT Manual](sapiens_infinite_context_window_pt.pdf)                  |
+| Context Length                  | [Link to the EN Manual](context_length_en.pdf)                                   | [Link to the ES Manual](context_length_es.pdf)                                   | [Link to the PT Manual](context_length_pt.pdf)                                   |
+| Math Precision                  | [Link to the EN Manual](math_precision_en.pdf)                                   | [Link to the ES Manual](math_precision_es.pdf)                                   | [Link to the PT Manual](math_precision_pt.pdf)                                   |
+| Sapiens Bench                   | [Link to the EN Manual](sapiens_bench_en.pdf)                                    | [Link to the ES Manual](sapiens_bench_es.pdf)                                    | [Link to the PT Manual](sapiens_bench_pt.pdf)                                    |
+| GPT Model                       | [Link to the EN Manual](gpt_model_en.pdf)                                        | [Link to the ES Manual](gpt_model_es.pdf)                                        | [Link to the PT Manual](gpt_model_pt.pdf)                                        |
+| CPU Model                       | [Link to the EN Manual](cpu_model_en.pdf)                                        | [Link to the ES Manual](cpu_model_es.pdf)                                        | [Link to the PT Manual](cpu_model_pt.pdf)                                        |
+| MGT                             | [Link to the EN Manual](mgt_en.pdf)                                              | [Link to the ES Manual](mgt_es.pdf)                                              | [Link to the PT Manual](mgt_pt.pdf)                                              |
+| SAPI-Tensors                    | [Link to the EN Manual](sapi_tensors_en.pdf)                                     | [Link to the ES Manual](sapi_tensors_es.pdf)                                     | [Link to the PT Manual](sapi_tensors_pt.pdf)                                     |
+| Sapiens                         | [Link to the EN Manual](sapiens_en.pdf)                                          | [Link to the ES Manual](sapiens_es.pdf)                                          | [Link to the PT Manual](sapiens_pt.pdf)                                          |
+| Entity                          | [Link to the EN Manual](entity_en.pdf)                                           | [Link to the ES Manual](entity_es.pdf)                                           | [Link to the PT Manual](entity_pt.pdf)                                           |
+| SAPI                            | [Link to the EN Manual](sapi_en.pdf)                                             | [Link to the ES Manual](sapi_es.pdf)                                             | [Link to the PT Manual](sapi_pt.pdf)                                             |
+
+---
+
 ## 🔭 Our Vision
 We believe that Artificial Intelligence is a natural step in the evolution of the **Sapiens** species. Our goal is to drive this evolution, enhancing human potential through technology. 🌱
 
@@ -112,7 +144,7 @@ At **SAPIENS TECHNOLOGY LTDA**, we are building the future of Artificial Intelli
 
 Our mission is clear: to take humanity to the next level through technology. 🌍🧠✨
 
-# [About Us]
+## [About Us]
 
 **SAPIENS TECHNOLOGY LTDA** presented an approach that, since its original disclosure, already anticipated directions that would only later become trends in the development of language models.
 
