@@ -38,6 +38,12 @@ We are pioneers in Latin America in developing a "proprietary foundational multi
 | Entity                          | [Link to the EN Manual](entity_en.pdf)                                           | [Link to the ES Manual](entity_es.pdf)                                           | [Link to the PT Manual](entity_pt.pdf)                                           |
 | SAPI                            | [Link to the EN Manual](sapi_en.pdf)                                             | [Link to the ES Manual](sapi_es.pdf)                                             | [Link to the PT Manual](sapi_pt.pdf)                                             |
 
+Click [here](green_sapiens_technologies_en.pdf) to access the complete manual in EN.
+
+Click [here](green_sapiens_technologies_es.pdf) to access the complete manual in ES.
+
+Click [here](green_sapiens_technologies_pt.pdf) to access the complete manual in PT.
+
 ---
 
 ## 🔭 Our Vision
