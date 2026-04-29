@@ -494,7 +494,19 @@ Edit this video so that it only contains the first five seconds.
 
 ---
 
+## Linguistic Distribution
+
 ![Chart](chart.png)
+
+Sapiens Technology®️ introduces an innovative approach to language model development by structuring its training datasets with a strategic and highly efficient linguistic distribution. The chart clearly reflects this vision: a strong foundation built on English, Spanish, and Portuguese, languages that dominate global and regional communication, combined with a carefully curated selection of other relevant languages.
+
+This data architecture provides a clear competitive advantage. By placing strong emphasis on Portuguese and Spanish, Sapiens uniquely positions itself in the market, delivering models that are significantly more accurate, natural, and culturally aligned for Brazil and the broader Latin American region, an area still underserved by major global players. At the same time, the consistent inclusion of languages such as French, German, Russian, Chinese, Arabic, and Persian ensures true multilingual capability, enabling international applications without compromising quality.
+
+The result is a language model that balances depth and breadth: deep where it matters most for its target audience, and broad enough to operate effectively in global contexts. This combination enhances performance across tasks such as text generation, contextual understanding, translation, and natural interaction, significantly elevating the user experience.
+
+With this strategy, Sapiens Technology®️ is not just keeping pace with the evolution of artificial intelligence, it is redefining the standard, creating models that are more inclusive, efficient, and ready for a truly multilingual world.
+
+---
 
 ## Contributing
 
