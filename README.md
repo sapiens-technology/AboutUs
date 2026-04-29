@@ -402,55 +402,55 @@ Download this YouTube music: https://www.youtube.com/shorts/K6aVD61B-Tc
 
 ### File Interpretation
 
-#### Image Loading
+#### 🌄 Image Loading
 
 ```bash
 What can be seen in this image?
 ```
 
-#### Audio Loading
+#### 🎵 Audio Loading
 
 ```bash
 What is this audio file about?
 ```
 
-#### Video Loading
+#### 🎬 Video Loading
 
 ```bash
 What is this video about?
 ```
 
-#### PDF File Loading
+#### 📄 PDF File Loading
 
 ```bash
 What is this PDF file about?
 ```
 
-#### Microsoft Word Document Loading
+#### 🧾 Microsoft Word Document Loading
 
 ```bash
 What is this Word document about?
 ```
 
-#### Microsoft Excel Spreadsheet Loading
+#### 📊 Microsoft Excel Spreadsheet Loading
 
 ```bash
 What is this Excel spreadsheet about?
 ```
 
-#### Microsoft PowerPoint Presentation Loading
+#### 🧑‍🏫 Microsoft PowerPoint Presentation Loading
 
 ```bash
 What is this PowerPoint presentation about?
 ```
 
-#### CSV Table Loading
+#### 🔢 CSV Table Loading
 
 ```bash
 What is this CSV table about?
 ```
 
-#### Text File Loading
+#### 📝 Text File Loading
 
 ```bash
 What is this text file about?
@@ -460,7 +460,7 @@ What is this text file about?
 
 ### Editing Uploaded Files
 
-#### Image Upload
+#### 🌄 Image Upload
 
 ```bash
 Edit this image so that it becomes black and white.
@@ -474,7 +474,7 @@ Remove the background from this image so that it has a transparent background.
 Apply an upscale to this image so that it has a higher resolution.
 ```
 
-#### Audio Upload
+#### 🎵 Audio Upload
 
 ```bash
 Edit this audio so that it only contains the first five seconds.
@@ -484,7 +484,7 @@ Edit this audio so that it only contains the first five seconds.
 Edit this audio so that it becomes twice as fast.
 ```
 
-#### Video Upload
+#### 🎬 Video Upload
 
 ```bash
 Edit this video so that it only contains the first five seconds.
