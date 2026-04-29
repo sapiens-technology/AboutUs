@@ -494,7 +494,7 @@ Edit this video so that it only contains the first five seconds.
 
 ---
 
-## Linguistic Distribution
+## 🇺🇸 🇪🇸 🇧🇷 Linguistic Distribution
 
 ![Chart](chart.png)
 
