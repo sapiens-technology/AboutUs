@@ -208,6 +208,8 @@ This combination anticipates an important evolution: models that not only genera
 
 Models with multimodality in the output can generate various types of content, based on some pre-established commands. Below, it is possible to see some examples of these commands, **but not all of them will work with any type of model.** *More advanced commands only work on our cutting-edge models with a higher density of parameters.*
 
+<sub>Note: The Sapiens Technology®️ was the first company in the world to make available a multimodal language model capable of generating files and documents.</sub>
+
 ---
 
 ```bash
