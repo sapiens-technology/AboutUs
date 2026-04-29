@@ -485,6 +485,8 @@ Edit this audio so that it becomes twice as fast.
 Edit this video so that it only contains the first five seconds.
 ```
 
+---
+
 ## Contributing
 
 We do not accept contributions that may result in changing the original code.
