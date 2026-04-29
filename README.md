@@ -198,3 +198,299 @@ In summary, our pioneering character is based on clear pillars:
 - **Exploration of alternative methods to backpropagation**  
 
 This combination anticipates an important evolution: models that not only generate responses, but **evaluate multiple possibilities and consciously select the best output**, operating with increasing efficiency and across different types of media.
+
+## Commands
+
+Models with multimodality in the output can generate various types of content, based on some pre-established commands. Below, it is possible to see some examples of these commands, **but not all of them will work with any type of model.** *More advanced commands only work on our cutting-edge models with a higher density of parameters.*
+
+---
+
+```bash
+Create a Python loop code to count from 1 to 9.
+```
+
+```bash
+/code Python loop to count from 1 to 9.
+```
+
+---
+
+```bash
+Create an artifact to generate random numbers between 0 and 9.
+```
+
+```bash
+/artifact random number generator between 0 and 9.
+```
+
+---
+
+```bash
+Search the internet for the latest technology news.
+```
+
+```bash
+/web latest technology news.
+```
+
+---
+
+```bash
+Create an image of a white cat with blue eyes.
+```
+
+```bash
+/image white cat with blue eyes.
+```
+
+---
+
+```bash
+Create a minimalist logo for a barbershop.
+```
+
+```bash
+/logo minimalist logo for a barbershop.
+```
+
+```bash
+Create a logo of the planet Saturn with a transparent background.
+```
+
+```bash
+/logo planet Saturn with transparent background.
+```
+
+---
+
+```bash
+/audio Hello, world! This is an example of text-to-speech conversion.
+```
+
+---
+
+```bash
+Create a cinematic music piece that starts slowly, builds into an exciting epic, and ends in a calm and serene way. Use classical-style piano and violin sounds.
+```
+
+```bash
+/music cinematic piece that starts slowly, builds into an exciting epic, and ends in a calm and serene way. Use classical-style piano and violin sounds.
+```
+
+---
+
+```bash
+Create a video of a young woman smiling.
+```
+
+```bash
+/video young woman smiling.
+```
+
+---
+
+```bash
+Create a PDF file containing a title and a short sentence about Philosophy.
+```
+
+```bash
+/pdf title and a short sentence about Philosophy.
+```
+
+---
+
+```bash
+Create a word cloud related to the theme of Artificial Intelligence.
+```
+
+```bash
+/wordcloud Artificial Intelligence.
+```
+
+---
+
+```bash
+Create a Word document with a title and a short text about Philosophy.
+```
+
+```bash
+/word title and a short text about Philosophy.
+```
+
+---
+
+```bash
+Create an Excel spreadsheet with example names and ages. Add a bar chart for the ages.
+```
+
+```bash
+/excel example names and ages with a bar chart for the ages.
+```
+
+---
+
+```bash
+Create a CSV table with ten rows of records containing example names and ages.
+```
+
+```bash
+/csv ten rows of records containing example names and ages.
+```
+
+---
+
+```bash
+Create a PowerPoint presentation with three basic slides about Philosophy.
+```
+
+```bash
+/powerpoint three basic slides about Philosophy.
+```
+
+---
+
+```bash
+Create a bar chart with 10 in the first bar and 15 in the second.
+```
+
+```bash
+/chart 10 in the first bar and 15 in the second.
+```
+
+---
+
+```bash
+Create a flowchart with the main roles of a tech startup.
+```
+
+```bash
+/flowchart main roles of a tech startup.
+```
+
+---
+
+```bash
+Download this YouTube video: https://www.youtube.com/shorts/kYJO0y8fVTA
+```
+
+```bash
+/youtube-video-download https://www.youtube.com/shorts/kYJO0y8fVTA
+```
+
+---
+
+```bash
+Download this YouTube music: https://www.youtube.com/shorts/K6aVD61B-Tc
+```
+
+```bash
+/youtube-audio-download https://www.youtube.com/shorts/K6aVD61B-Tc
+```
+
+---
+
+```bash
+/deep-reasoning If Maria is João's mother and José's sister, what is José to João?
+```
+
+---
+
+### File Interpretation
+
+#### Image Loading
+
+```bash
+What can be seen in this image?
+```
+
+#### Audio Loading
+
+```bash
+What is this audio file about?
+```
+
+#### Video Loading
+
+```bash
+What is this video about?
+```
+
+#### PDF File Loading
+
+```bash
+What is this PDF file about?
+```
+
+#### Microsoft Word Document Loading
+
+```bash
+What is this Word document about?
+```
+
+#### Microsoft Excel Spreadsheet Loading
+
+```bash
+What is this Excel spreadsheet about?
+```
+
+#### Microsoft PowerPoint Presentation Loading
+
+```bash
+What is this PowerPoint presentation about?
+```
+
+#### CSV Table Loading
+
+```bash
+What is this CSV table about?
+```
+
+#### Text File Loading
+
+```bash
+What is this text file about?
+```
+
+---
+
+### Editing Uploaded Files
+
+#### Image Upload
+
+```bash
+Edit this image so that it becomes black and white.
+```
+
+```bash
+Remove the background from this image so that it has a transparent background.
+```
+
+```bash
+Apply an upscale to this image so that it has a higher resolution.
+```
+
+#### Audio Upload
+
+```bash
+Edit this audio so that it only contains the first five seconds.
+```
+
+```bash
+Edit this audio so that it becomes twice as fast.
+```
+
+#### Video Upload
+
+```bash
+Edit this video so that it only contains the first five seconds.
+```
+
+## Contributing
+
+We do not accept contributions that may result in changing the original code.
+
+Make sure you are using the appropriate version.
+
+## License
+
+This is proprietary repository and its alteration and/or distribution without the developer's authorization is not permitted.
