@@ -79,6 +79,9 @@ This architecture enables a higher level of refinement and adaptability.
 ---
 
 ### 🔗 SAPI (Semantic AI with Pretrained Integration)
+
+![SAPI](SAPI-ARCH.png)
+
 The core of our technology is **SAPI**, a proprietary architecture that simulates decision-making processes based on multiple "internal intuitions".
 
 It:
