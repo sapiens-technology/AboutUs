@@ -494,6 +494,8 @@ Edit this video so that it only contains the first five seconds.
 
 ---
 
+![Chart](chart.png)
+
 ## Contributing
 
 We do not accept contributions that may result in changing the original code.
