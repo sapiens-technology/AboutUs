@@ -10,6 +10,8 @@ We are pioneers in Latin America in developing a "proprietary foundational multi
 
 ## Our Technologies
 
+![HUR](HUR-ARCH.png)
+
 | Technology                      | English                                                                          | Spanish                                                                          | Portuguese                                                                       |
 |---------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Single Layer HurNet 1.0         | [Link to the EN Manual](single_layer_hurnet_en.pdf)                              | [Link to the ES Manual](single_layer_hurnet_es.pdf)                              | [Link to the PT Manual](single_layer_hurnet_pt.pdf)                              |
