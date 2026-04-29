@@ -496,7 +496,7 @@ Edit this video so that it only contains the first five seconds.
 
 ## 🇺🇸 🇪🇸 🇧🇷 Linguistic Distribution
 
-![Chart](chart.png)
+![Chart](linguistic_distribution.png)
 
 Sapiens Technology®️ introduces an innovative approach to language model development by structuring its training datasets with a strategic and highly efficient linguistic distribution. The chart clearly reflects this vision: a strong foundation built on English, Spanish, and Portuguese, languages that dominate global and regional communication, combined with a carefully curated selection of other relevant languages.
 
