@@ -58,7 +58,7 @@ We are committed to creating global impact with solutions that combine:
 
 ---
 
-## 🧩 Our Technology
+## 🧩 Our Key Technologies
 
 ### 💬 Sapiens Chat
 **Sapiens Chat** is our next-generation AI system, based on a multimodal model (LLM/LMM), trained on large volumes of data and designed to meet multiple demands — from text generation to multimedia content creation. 🎨📊
