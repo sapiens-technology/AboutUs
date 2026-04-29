@@ -152,7 +152,7 @@ At **SAPIENS TECHNOLOGY LTDA**, we are building the future of Artificial Intelli
 
 Our mission is clear: to take humanity to the next level through technology. 🌍🧠✨
 
-## [About Us]
+## 💡 About Us
 
 **SAPIENS TECHNOLOGY LTDA** presented an approach that, since its original disclosure, already anticipated directions that would only later become trends in the development of language models.
 
@@ -201,7 +201,7 @@ In summary, our pioneering character is based on clear pillars:
 
 This combination anticipates an important evolution: models that not only generate responses, but **evaluate multiple possibilities and consciously select the best output**, operating with increasing efficiency and across different types of media.
 
-## Commands
+## 🧑‍💻 `>_` Commands
 
 Models with multimodality in the output can generate various types of content, based on some pre-established commands. Below, it is possible to see some examples of these commands, **but not all of them will work with any type of model.** *More advanced commands only work on our cutting-edge models with a higher density of parameters.*
 
