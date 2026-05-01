@@ -311,7 +311,7 @@ Create a word cloud related to the theme of Artificial Intelligence.
 ```
 
 ```bash
-/wordcloud Artificial Intelligence.
+/wordcloud Words about Artificial Intelligence.
 ```
 
 ---
