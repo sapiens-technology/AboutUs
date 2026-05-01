@@ -321,7 +321,7 @@ Create a Word document with a title and a short text about Philosophy.
 ```
 
 ```bash
-/word title and a short text about Philosophy.
+/word file with title and a short text about Philosophy.
 ```
 
 ---
