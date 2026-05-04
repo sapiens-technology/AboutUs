@@ -294,6 +294,68 @@ Create a video of a young woman smiling.
 /video young woman smiling.
 ```
 
+**SAPI-5-Preview-Omni or Higher**
+
+Requires a more detailed prompt.
+
+```bash
+Create a video of a redheaded woman with blood on her face and a black tank top...
+A woman with blood on her face and a black tank top looks down and to her left, then back down as she speaks.
+She has red hair pulled back, light skin, and her face and chest are covered in blood.
+The camera angle is a close-up, focused on the woman's face and upper torso.
+The lighting is dim and blue-toned, creating a somber and intense atmosphere.
+The scene appears to be from a movie or TV show.
+```
+
+```bash
+/video A redheaded woman with blood on her face and a black tank top...
+A woman with blood on her face and a black tank top looks down and to her left, then back down as she speaks.
+She has red hair pulled back, light skin, and her face and chest are covered in blood.
+The camera angle is a close-up, focused on the woman's face and upper torso.
+The lighting is dim and blue-toned, creating a somber and intense atmosphere.
+The scene appears to be from a movie or TV show.
+```
+
+```bash
+Create a video of a woman walks away from a red Jeep parked on a city street at night...
+A woman walks away from a red Jeep parked on a city street at night, then ascends a staircase and knocks on a door. The woman, wearing a dark jacket and jeans, walks away from the Jeep parked on the left side of the street, her back to the camera; she walks at a steady pace, her arms swinging slightly by her sides; the street is dimly lit, with streetlights casting pools of light on the wet pavement; a man in a dark jacket and jeans walks past the Jeep in the opposite direction; the camera follows the woman from behind as she walks up a set of stairs towards a building with a green door; she reaches the top of the stairs and turns left, continuing to walk towards the building; she reaches the door and knocks on it with her right hand; the camera remains stationary, focused on the doorway; the scene is captured in real-life footage.
+```
+
+```bash
+/video A woman walks away from a red Jeep parked on a city street at night...
+A woman walks away from a red Jeep parked on a city street at night, then ascends a staircase and knocks on a door. The woman, wearing a dark jacket and jeans, walks away from the Jeep parked on the left side of the street, her back to the camera; she walks at a steady pace, her arms swinging slightly by her sides; the street is dimly lit, with streetlights casting pools of light on the wet pavement; a man in a dark jacket and jeans walks past the Jeep in the opposite direction; the camera follows the woman from behind as she walks up a set of stairs towards a building with a green door; she reaches the top of the stairs and turns left, continuing to walk towards the building; she reaches the door and knocks on it with her right hand; the camera remains stationary, focused on the doorway; the scene is captured in real-life footage.
+```
+
+```bash
+Create a video of a woman with light skin, wearing a blue jacket and a black hat...
+A woman with light skin, wearing a blue jacket and a black hat with a veil, looks down and to her right, then back up as she speaks; she has brown hair styled in an updo, light brown eyebrows, and is wearing a white collared shirt under her jacket; the camera remains stationary on her face as she speaks; the background is out of focus, but shows trees and people in period clothing; the scene is captured in real-life footage.
+```
+
+```bash
+/video A woman with light skin, wearing a blue jacket and a black hat...
+A woman with light skin, wearing a blue jacket and a black hat with a veil, looks down and to her right, then back up as she speaks; she has brown hair styled in an updo, light brown eyebrows, and is wearing a white collared shirt under her jacket; the camera remains stationary on her face as she speaks; the background is out of focus, but shows trees and people in period clothing; the scene is captured in real-life footage.
+```
+
+```bash
+Create a video of the camera pans across a cityscape of tall buildings...
+The camera pans across a cityscape of tall buildings with a circular building in the center. The camera moves from left to right, showing the tops of the buildings and the circular building in the center. The buildings are various shades of gray and white, and the circular building has a green roof. The camera angle is high, looking down at the city. The lighting is bright, with the sun shining from the upper left, casting shadows from the buildings. The scene is computer-generated imagery.
+```
+
+```bash
+/video The camera pans across a cityscape of tall buildings...
+The camera pans across a cityscape of tall buildings with a circular building in the center. The camera moves from left to right, showing the tops of the buildings and the circular building in the center. The buildings are various shades of gray and white, and the circular building has a green roof. The camera angle is high, looking down at the city. The lighting is bright, with the sun shining from the upper left, casting shadows from the buildings. The scene is computer-generated imagery.
+```
+
+```bash
+Create a video of A man in a suit enters a room and speaks to two women...
+A man in a suit enters a room and speaks to two women sitting on a couch. The man, wearing a dark suit with a gold tie, enters the room from the left and walks towards the center of the frame. He has short gray hair, light skin, and a serious expression. He places his right hand on the back of a chair as he approaches the couch. Two women are seated on a light-colored couch in the background. The woman on the left wears a light blue sweater and has short blonde hair. The woman on the right wears a white sweater and has short blonde hair. The camera remains stationary, focusing on the man as he enters the room. The room is brightly lit, with warm tones reflecting off the walls and furniture. The scene appears to be from a film or television show.
+```
+
+```bash
+/video A man in a suit enters a room and speaks to two women...
+A man in a suit enters a room and speaks to two women sitting on a couch. The man, wearing a dark suit with a gold tie, enters the room from the left and walks towards the center of the frame. He has short gray hair, light skin, and a serious expression. He places his right hand on the back of a chair as he approaches the couch. Two women are seated on a light-colored couch in the background. The woman on the left wears a light blue sweater and has short blonde hair. The woman on the right wears a white sweater and has short blonde hair. The camera remains stationary, focusing on the man as he enters the room. The room is brightly lit, with warm tones reflecting off the walls and furniture. The scene appears to be from a film or television show.
+```
+
 ---
 
 ```bash
